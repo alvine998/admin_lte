@@ -1,0 +1,15 @@
+.topbar{
+    height: 40px;
+    width: 100%;
+}
+
+.nav{
+    float: right;
+    padding: 10px;
+}
+
+.image{
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+}
