@@ -14,10 +14,10 @@ const Topbar = () => {
                         </div>
                         <div className='col-md dropdown'>
                             <a className='dropdown-toggle' id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">Halo, Sammy</a>
-                            <ul class="dropdown-menu" aria-labelledby="navbarDarkDropdownMenuLink">
-                                <li><a class="dropdown-item" href="#">Akun</a></li>
+                            <ul className="dropdown-menu" aria-labelledby="navbarDarkDropdownMenuLink">
+                                <li><a className="dropdown-item" href="#">Akun</a></li>
                                 <hr/>
-                                <li><a class="dropdown-item" href="#">Logout</a></li>
+                                <li><a className="dropdown-item" href="#">Logout</a></li>
                             </ul>
                         </div>
                     </div>
